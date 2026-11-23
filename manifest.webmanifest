@@ -1,0 +1,19 @@
+{
+	"name": "Gadot Kart Racing",
+	"short_name": "Gadot Kart",
+	"description": "An arcade kart racer built with Godot.",
+	"start_url": "./",
+	"scope": "./",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#070810",
+	"theme_color": "#070810",
+	"icons": [
+		{
+			"src": "icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}
